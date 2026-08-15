@@ -29,8 +29,6 @@
 
 </div>
 
-Primary dev environment: [Claude Code](https://claude.com/product/claude-code)
-
 ---
 
 ### 📌 Featured projects
